@@ -9,9 +9,9 @@
 
 <h3> Solving </h3>
 <h4> CRC </h4>
-<img src="./CRC1.jpg">
-<img src="./CRC2.jpg">
-<img src="./CRC3.jpg">
+<img src="CRC1.jpg">
+<img src="CRC2.jpg">
+<img src="CRC3.jpg">
 
 <h4> Checksum </h4>
 <img src="./checksum1.jpg">
